@@ -20,3 +20,4 @@ semua simpul baru ditambahkan ke himpunan simpul yang telah dibuat, dan proses i
 Dengan demikian, Best First Search menggabungkan kelebihan BFS dalam melakukan pencarian secara terarah dan kelebihan DFS dalam melakukan pencarian secara mendalam, sehingga dapat menemukan solusi dengan lebih efisien <br />
 
 Untuk membuat program ini daoat dengan menggunakan JavaSwing. Untuk membuat permainan Tic Tac Toe dengan menggunakan Java Swing. Java Swing adalah sebuah library yang menyediakan komponen-komponen grafis untuk membuat antarmuka pengguna (GUI) dengan Java. Beberapa komponen yang kita gunakan dalam permainan ini adalah JFrame, JPanel, JButton, JLabel, dan ImageIcon. 
+
